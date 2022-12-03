@@ -1,4 +1,4 @@
-image: tmy2017/gitpod-pstorm-with-php71-mysql8:ver-1663427045
+image: node
 jetbrains:
   phpstorm:
     prebuilds:
