@@ -56,3 +56,4 @@ If you want hack on croogo, you can use the `--prefer-source` flag, ie:
   * **IRC Channel**: [#croogo](irc://irc.freenode.net/croogo) on irc.freenode.net
 
   * **Gitter**: [![Join the chat at https://gitter.im/croogo/croogo](https://badges.gitter.im/croogo/croogo.svg)](https://gitter.im/croogo/croogo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
